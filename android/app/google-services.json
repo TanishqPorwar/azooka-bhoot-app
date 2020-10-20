@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "351032645826",
+    "firebase_url": "https://bhoot-app-34b44.firebaseio.com",
+    "project_id": "bhoot-app-34b44",
+    "storage_bucket": "bhoot-app-34b44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351032645826:android:63bd05722d5c862743835b",
+        "android_client_info": {
+          "package_name": "life.azooka.bhoot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351032645826-g9dj0bcg3dvdntvkihvo3t8b8ot3kfeb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "life.azooka.bhoot",
+            "certificate_hash": "a94fb6db46efdd32ecd72a9003dcad751f6f0d7d"
+          }
+        },
+        {
+          "client_id": "351032645826-810nitri8tk84klr42qud7fhqblqd567.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-pUxmQdcT1zDlIasv5-T1IlS6emY911A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351032645826-810nitri8tk84klr42qud7fhqblqd567.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
